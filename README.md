@@ -123,8 +123,8 @@ Building scalable African technology solutions for telecom, energy, cybersecurit
 # 📫 Contact
 
 - Website: https://pakap.net
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your@email.com
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pape-abdoulaye-bar-ka/)
+- Email: barka@pakap.net
 
 ---
 
